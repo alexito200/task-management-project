@@ -10,7 +10,7 @@ TOC:
 - login page
 
 
-  The home page of my task managament app uses a simple navbar, jumbotron and card combo layout to welcome users. A paragraph follows the heading explaining a bit about the app. The
+  The home page of my task management app uses a simple navbar, jumbotron and card combo layout to welcome users. A paragraph follows the heading explaining a bit about the app. The
 three cards highlight a reason for using this app over other task managers.
 
   The dashboard page has a two card horizontal layout. The first card lists out three categories: To-do, In Progress, and Completed. The next card lists out all of the tasks from the
